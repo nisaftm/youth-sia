@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">youth-sia</string>
+    <string name="text_quiz">Coba hitung: 1 + 7 =</string>
+    <string name="hint_password">Kata Kunci</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_jawaban_anda">Jawaban Anda</string>
+    <string name="text_bt_masuk">Masuk</string>
+    <string name="text_youth">YOUTH © 2019</string>
+    <string name="text_pengumuman">PENGUMUMAN</string>
+</resources>
